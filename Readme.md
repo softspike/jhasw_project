@@ -59,4 +59,4 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 
 ### Home Page Mobile set @768 px .css breakpoint
-<img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="67" heigh="300"/>
+

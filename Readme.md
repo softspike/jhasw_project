@@ -25,6 +25,7 @@ Project is created with:
 </br>
 * <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> HTML 5
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> CSS 3
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> JavaScript
 
 
 Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.

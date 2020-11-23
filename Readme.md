@@ -46,7 +46,17 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ### Home Page Desktop *css grid *css flexbox
 
-<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025385-90c9ca80-2de0-11eb-9ae0-6edf12ec61b0.png" alt="home_page_desktop" width="350" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025441-b5be3d80-2de0-11eb-82ed-e5f9695314ea.png" alt="categories_desktop" width="340" heigh="300"/>
+
+<img src="https://user-images.githubusercontent.com/47834415/100025521-e00ffb00-2de0-11eb-83a4-b20b6555db74.png" alt="3" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025555-f1590780-2de0-11eb-846d-e7bb53170a0a.png" alt="4" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025608-07ff5e80-2de1-11eb-9d48-d7b2f401c95c.png" alt="5" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025635-164d7a80-2de1-11eb-8f5e-822f815005bb.png" alt="6" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025670-236a6980-2de1-11eb-84db-5b9c70924a38.png" alt="7" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025698-341adf80-2de1-11eb-90f9-58cd1f53d331.png" alt="8" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025721-4137ce80-2de1-11eb-8e77-8f5b451a92e1.png" alt="9" width="340" heigh="300"/>
+
 
 ### Home Page Mobile set @768 px .css breakpoint
 <img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="67" heigh="300"/>

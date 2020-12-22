@@ -60,7 +60,7 @@ check if the app is running on `http://0.0.0.0:8000/`
 <img src="https://user-images.githubusercontent.com/47834415/100025635-164d7a80-2de1-11eb-8f5e-822f815005bb.png" alt="6" width="340" heigh="300"/>
 <img src="https://user-images.githubusercontent.com/47834415/100025670-236a6980-2de1-11eb-84db-5b9c70924a38.png" alt="7" width="340" heigh="300"/>
 <img src="https://user-images.githubusercontent.com/47834415/100025698-341adf80-2de1-11eb-90f9-58cd1f53d331.png" alt="8" width="340" heigh="300"/>
-<img src="https://user-images.githubusercontent.com/47834415/100025721-4137ce80-2de1-11eb-8e77-8f5b451a92e1.png" alt="9" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/100025721-4137ce80-2de1-11eb-8e77-8f5b451a92e1.png" alt="9" width="340" heigh="200"/>
 
 
 ### Home Page Mobile set @768 px .css breakpoint

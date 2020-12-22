@@ -45,7 +45,7 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
-### Home Page Gallery implemented (fully responsive) *css grid *css flexbox *JavaScript 
+### Home Page Gallery *implemented (fully responsive) *css grid *css flexbox *JavaScript 
 
 <img src="https://user-images.githubusercontent.com/47834415/102908709-bd204780-446f-11eb-9b34-4355fc5c4849.png" alt="home_page_desktop" width="350" heigh="350"/>
 

@@ -47,6 +47,8 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ### Home Page Desktop *css grid *css flexbox
 
+
+<img src="https://user-images.githubusercontent.com/47834415/102908709-bd204780-446f-11eb-9b34-4355fc5c4849.png" alt="home_page_desktop" width="350" heigh="700"/>
 <img src="https://user-images.githubusercontent.com/47834415/100025385-90c9ca80-2de0-11eb-9ae0-6edf12ec61b0.png" alt="home_page_desktop" width="350" heigh="300"/>
 <img src="https://user-images.githubusercontent.com/47834415/100025441-b5be3d80-2de0-11eb-82ed-e5f9695314ea.png" alt="categories_desktop" width="340" heigh="300"/>
 
